@@ -1,7 +1,7 @@
 var num= new Array();
 for(var x=0; x <10 ; x++ ){
 
-  num[x]= parseFloat(prompt("Type a number(Maximum capacity 10 number)"));
+  num[x]= parseFloat(prompt("Type a number(Maximum capacity 10 number)(addition only)"));
 
 }
 
